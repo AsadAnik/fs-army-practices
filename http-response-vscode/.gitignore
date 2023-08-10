@@ -1,0 +1,9 @@
+# Ignoring the Node_Modules..
+/node_modules
+node_modules
+
+yarn.lock
+/yarn.lock
+
+.gitignore.swp
+/.gitignore.swp
